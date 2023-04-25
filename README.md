@@ -1,10 +1,13 @@
+<p align="left"> <img src="https://static1.shine.com/l/m/images/blog/Software-Engineering-Jobs_1.jpg" alt="banner" width="100%" height="400px"/> </p>
 <h1 align="center">Hi 👋, I'm Momeni Gilles</h1>
 <h3 align="center">A full stack JS developer, innovative, creative, capable to work in team and quick problem solution both on native hybrid application as on web,</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=menoc61&label=Profile%20views&color=0e75b6&style=flat" alt="menoc61" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=menoc61" alt="menoc61" /></a> </p>
-
+<p align="right">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+</p>
 <p align="left"> <a href="https://twitter.com/gillemomeni" target="blank"><img src="https://img.shields.io/twitter/follow/gillemomeni?logo=twitter&style=for-the-badge" alt="gillemomeni" /></a> </p>
 
 - 🌱 I’m currently learning **TyeScript,prisma,Docker,AL&ML**
