@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://static1.shine.com/l/m/images/blog/Software-Engineering-Jobs_1.jpg" alt="banner" width="100%" height="400px"/> </p>
 <h1 align="center">Hi 👋, I'm Momeni Gilles</h1>
 <h3 align="center">A full stack JS developer, innovative, creative, capable to work in team and quick problem solution both on native hybrid application as on web,</h3>
 
