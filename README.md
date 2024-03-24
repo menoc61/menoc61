@@ -1,5 +1,4 @@
-![Logo](https://github.com/menoc61/menoc61/images/banner.png)
-<br/>
+![LOGO](https://menoc61.github.io/menoc61/images/banner.png)
 <h1 align="center">Hi 👋, I'm Gilles Momeni</h1>
 <h3 align="center">A passionate Software engineer and bigdata scientist form cameroon,Crafting Tomorrow's Solutions in Code 🚀 | Software Engineer & Data Scientist | Passionate about Innovation & Collaboration 💡 | Let's Build the Future Together! #CodeForChange.</h3>
 
@@ -23,7 +22,7 @@
 
 - 📫 How to reach me **gillemomeni@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/menoc61/menoc61/Momeni-cv.pdf](https://github.com/menoc61/menoc61/Momeni-cv.pdf)
+- 📄 Know about my experiences [Momeni-cv.pdf](https://menoc61.github.io/menoc61/Momeni-cv.pdf)
 
 - ⚡ Fun fact **Fun fact A funny developer in love with the field and capable to work in team**
 
